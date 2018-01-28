@@ -1,0 +1,575 @@
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.82
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Sep 29 2017 12:23:15 UTC
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.82.0
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            3.10.0-693.11.6.el7.x86_64
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.161-0.b14.el7_4.x86_64/jre
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_161-b14
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /home/prady/apache-tomcat-7.0.82
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /home/prady/apache-tomcat-7.0.82
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/home/prady/apache-tomcat-7.0.82/conf/logging.properties
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/home/prady/apache-tomcat-7.0.82/endorsed
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/home/prady/apache-tomcat-7.0.82
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/home/prady/apache-tomcat-7.0.82
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/home/prady/apache-tomcat-7.0.82/temp
+Jan 20, 2018 10:19:40 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Jan 20, 2018 10:19:40 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-7777"]
+Jan 20, 2018 10:19:40 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1080 ms
+Jan 20, 2018 10:19:40 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Jan 20, 2018 10:19:40 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.82
+Jan 20, 2018 10:19:40 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/prady/apache-tomcat-7.0.82/webapps/ROOT
+Jan 20, 2018 10:19:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/prady/apache-tomcat-7.0.82/webapps/ROOT has finished in 618 ms
+Jan 20, 2018 10:19:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/prady/apache-tomcat-7.0.82/webapps/docs
+Jan 20, 2018 10:19:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/prady/apache-tomcat-7.0.82/webapps/docs has finished in 120 ms
+Jan 20, 2018 10:19:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/prady/apache-tomcat-7.0.82/webapps/examples
+Jan 20, 2018 10:19:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/prady/apache-tomcat-7.0.82/webapps/examples has finished in 471 ms
+Jan 20, 2018 10:19:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/prady/apache-tomcat-7.0.82/webapps/host-manager
+Jan 20, 2018 10:19:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/prady/apache-tomcat-7.0.82/webapps/host-manager has finished in 243 ms
+Jan 20, 2018 10:19:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/prady/apache-tomcat-7.0.82/webapps/manager
+Jan 20, 2018 10:19:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/prady/apache-tomcat-7.0.82/webapps/manager has finished in 82 ms
+Jan 20, 2018 10:19:42 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-7777"]
+Jan 20, 2018 10:19:42 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Jan 20, 2018 10:19:42 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1790 ms
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.82
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Sep 29 2017 12:23:15 UTC
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.82.0
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            3.10.0-693.11.6.el7.x86_64
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.161-0.b14.el7_4.x86_64/jre
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_161-b14
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /home/prady/apache-tomcat-7.0.82
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /home/prady/apache-tomcat-7.0.82
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/home/prady/apache-tomcat-7.0.82/conf/logging.properties
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/home/prady/apache-tomcat-7.0.82/endorsed
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/home/prady/apache-tomcat-7.0.82
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/home/prady/apache-tomcat-7.0.82
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/home/prady/apache-tomcat-7.0.82/temp
+Jan 20, 2018 10:31:26 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Jan 20, 2018 10:31:26 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-7777"]
+Jan 20, 2018 10:31:26 AM org.apache.coyote.AbstractProtocol init
+SEVERE: Failed to initialize end point associated with ProtocolHandler ["http-bio-7777"]
+java.net.BindException: Address already in use (Bind failed) <null>:7777
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:413)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:728)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:452)
+	at org.apache.coyote.http11.AbstractHttp11JsseProtocol.init(AbstractHttp11JsseProtocol.java:119)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:978)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:560)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:840)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:643)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:668)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:253)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:427)
+Caused by: java.net.BindException: Address already in use (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:49)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:400)
+	... 17 more
+
+Jan 20, 2018 10:31:26 AM org.apache.catalina.core.StandardService initInternal
+SEVERE: Failed to initialize connector [Connector[HTTP/1.1-7777]]
+org.apache.catalina.LifecycleException: Failed to initialize component [Connector[HTTP/1.1-7777]]
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:560)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:840)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:643)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:668)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:253)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:427)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler initialization failed
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:980)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	... 12 more
+Caused by: java.net.BindException: Address already in use (Bind failed) <null>:7777
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:413)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:728)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:452)
+	at org.apache.coyote.http11.AbstractHttp11JsseProtocol.init(AbstractHttp11JsseProtocol.java:119)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:978)
+	... 13 more
+Caused by: java.net.BindException: Address already in use (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:49)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:400)
+	... 17 more
+
+Jan 20, 2018 10:31:26 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Jan 20, 2018 10:31:26 AM org.apache.coyote.AbstractProtocol init
+SEVERE: Failed to initialize end point associated with ProtocolHandler ["ajp-bio-8009"]
+java.net.BindException: Address already in use (Bind failed) <null>:8009
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:413)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:728)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:452)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:978)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:560)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:840)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:643)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:668)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:253)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:427)
+Caused by: java.net.BindException: Address already in use (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:49)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:400)
+	... 16 more
+
+Jan 20, 2018 10:31:26 AM org.apache.catalina.core.StandardService initInternal
+SEVERE: Failed to initialize connector [Connector[AJP/1.3-8009]]
+org.apache.catalina.LifecycleException: Failed to initialize component [Connector[AJP/1.3-8009]]
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:560)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:840)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:643)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:668)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:253)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:427)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler initialization failed
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:980)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	... 12 more
+Caused by: java.net.BindException: Address already in use (Bind failed) <null>:8009
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:413)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:728)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:452)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:978)
+	... 13 more
+Caused by: java.net.BindException: Address already in use (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:49)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:400)
+	... 16 more
+
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1130 ms
+Jan 20, 2018 10:31:26 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Jan 20, 2018 10:31:26 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.82
+Jan 20, 2018 10:31:26 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/prady/apache-tomcat-7.0.82/webapps/ROOT
+Jan 20, 2018 10:31:27 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/prady/apache-tomcat-7.0.82/webapps/ROOT has finished in 617 ms
+Jan 20, 2018 10:31:27 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/prady/apache-tomcat-7.0.82/webapps/docs
+Jan 20, 2018 10:31:27 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/prady/apache-tomcat-7.0.82/webapps/docs has finished in 138 ms
+Jan 20, 2018 10:31:27 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/prady/apache-tomcat-7.0.82/webapps/examples
+Jan 20, 2018 10:31:27 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/prady/apache-tomcat-7.0.82/webapps/examples has finished in 453 ms
+Jan 20, 2018 10:31:27 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/prady/apache-tomcat-7.0.82/webapps/host-manager
+Jan 20, 2018 10:31:27 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/prady/apache-tomcat-7.0.82/webapps/host-manager has finished in 243 ms
+Jan 20, 2018 10:31:27 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/prady/apache-tomcat-7.0.82/webapps/manager
+Jan 20, 2018 10:31:27 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/prady/apache-tomcat-7.0.82/webapps/manager has finished in 99 ms
+Jan 20, 2018 10:31:27 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1653 ms
+Jan 20, 2018 10:31:27 AM org.apache.catalina.core.StandardServer await
+SEVERE: StandardServer.await: create[localhost:8005]: 
+java.net.BindException: Address already in use (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at org.apache.catalina.core.StandardServer.await(StandardServer.java:444)
+	at org.apache.catalina.startup.Catalina.await(Catalina.java:782)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:728)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:294)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:428)
+
+Jan 20, 2018 10:31:27 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-7777"]
+Jan 20, 2018 10:31:27 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Jan 20, 2018 10:31:27 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Jan 20, 2018 10:31:28 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-7777"]
+Jan 20, 2018 10:31:28 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-7777"]
+Jan 20, 2018 10:31:28 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Jan 20, 2018 10:31:28 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Jan 20, 2018 10:32:34 AM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Jan 20, 2018 10:32:34 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-7777"]
+Jan 20, 2018 10:32:34 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Jan 20, 2018 10:32:35 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Jan 20, 2018 10:32:35 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-7777"]
+Jan 20, 2018 10:32:35 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Jan 20, 2018 10:32:35 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-7777"]
+Jan 20, 2018 10:32:35 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.82
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Sep 29 2017 12:23:15 UTC
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.82.0
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            3.10.0-693.11.6.el7.x86_64
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.161-0.b14.el7_4.x86_64/jre
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_161-b14
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /home/prady/apache-tomcat-7.0.82
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /home/prady/apache-tomcat-7.0.82
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/home/prady/apache-tomcat-7.0.82/conf/logging.properties
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/home/prady/apache-tomcat-7.0.82/endorsed
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/home/prady/apache-tomcat-7.0.82
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/home/prady/apache-tomcat-7.0.82
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/home/prady/apache-tomcat-7.0.82/temp
+Jan 20, 2018 10:32:39 AM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Jan 20, 2018 10:32:39 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-7777"]
+Jan 20, 2018 10:32:39 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1042 ms
+Jan 20, 2018 10:32:39 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Jan 20, 2018 10:32:39 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.82
+Jan 20, 2018 10:32:39 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/prady/apache-tomcat-7.0.82/webapps/ROOT
+Jan 20, 2018 10:32:40 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/prady/apache-tomcat-7.0.82/webapps/ROOT has finished in 571 ms
+Jan 20, 2018 10:32:40 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/prady/apache-tomcat-7.0.82/webapps/docs
+Jan 20, 2018 10:32:40 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/prady/apache-tomcat-7.0.82/webapps/docs has finished in 131 ms
+Jan 20, 2018 10:32:40 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/prady/apache-tomcat-7.0.82/webapps/examples
+Jan 20, 2018 10:32:40 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/prady/apache-tomcat-7.0.82/webapps/examples has finished in 448 ms
+Jan 20, 2018 10:32:40 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/prady/apache-tomcat-7.0.82/webapps/host-manager
+Jan 20, 2018 10:32:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/prady/apache-tomcat-7.0.82/webapps/host-manager has finished in 254 ms
+Jan 20, 2018 10:32:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/prady/apache-tomcat-7.0.82/webapps/manager
+Jan 20, 2018 10:32:41 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/prady/apache-tomcat-7.0.82/webapps/manager has finished in 82 ms
+Jan 20, 2018 10:32:41 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-7777"]
+Jan 20, 2018 10:32:41 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Jan 20, 2018 10:32:41 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1675 ms
+Jan 20, 2018 10:47:41 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /home/prady/apache-tomcat-7.0.82/webapps/WebApp.war
+Jan 20, 2018 10:47:41 AM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /home/prady/apache-tomcat-7.0.82/webapps/WebApp.war has finished in 147 ms
+Jan 20, 2018 10:48:37 AM org.apache.coyote.ajp.AjpMessage processHeader
+SEVERE: Invalid message received with signature 18245
+Jan 20, 2018 10:53:08 AM org.apache.coyote.ajp.AjpMessage processHeader
+SEVERE: Invalid message received with signature 18245
+Jan 20, 2018 10:53:15 AM org.apache.coyote.ajp.AjpMessage processHeader
+SEVERE: Invalid message received with signature 18245
+Jan 20, 2018 10:53:16 AM org.apache.coyote.ajp.AjpMessage processHeader
+SEVERE: Invalid message received with signature 18501
+Jan 20, 2018 10:53:16 AM org.apache.coyote.ajp.AjpMessage processHeader
+SEVERE: Invalid message received with signature 768
+Jan 20, 2018 10:53:16 AM org.apache.coyote.http11.AbstractHttp11Processor process
+INFO: Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.InternalInputBuffer.parseRequestLine(InternalInputBuffer.java:139)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1028)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 20, 2018 10:53:17 AM org.apache.coyote.ajp.AjpMessage processHeader
+SEVERE: Invalid message received with signature 0
+Jan 20, 2018 10:53:17 AM org.apache.coyote.http11.AbstractHttp11Processor process
+INFO: Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.InternalInputBuffer.parseRequestLine(InternalInputBuffer.java:139)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1028)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 20, 2018 10:53:17 AM org.apache.coyote.ajp.AjpMessage processHeader
+SEVERE: Invalid message received with signature 0
+Jan 20, 2018 10:53:17 AM org.apache.coyote.ajp.AjpMessage processHeader
+SEVERE: Invalid message received with signature 0
+Jan 20, 2018 10:53:18 AM org.apache.coyote.ajp.AjpMessage processHeader
+SEVERE: Invalid message received with signature 0
+Jan 20, 2018 10:53:18 AM org.apache.coyote.ajp.AjpMessage processHeader
+SEVERE: Invalid message received with signature 0
+Jan 20, 2018 11:00:10 AM async.Async0$1 run
+INFO: Putting AsyncThread to sleep
+Jan 20, 2018 11:00:12 AM async.Async0$1 run
+INFO: Dispatching
+Jan 20, 2018 11:00:12 AM async.Async0 service
+INFO: Received dispatch, completing on the worker thread.
+Jan 20, 2018 11:00:12 AM async.Async0 service
+INFO: After complete called started:false
+Jan 20, 2018 11:00:12 AM async.Async1$1 run
+INFO: Putting AsyncThread to sleep
+Jan 20, 2018 11:00:14 AM async.Async1$1 run
+INFO: Dispatching to /jsp/async/async1.jsp
+Jan 20, 2018 11:00:15 AM async.Async2$1 run
+INFO: Putting AsyncThread to sleep
+Jan 20, 2018 11:00:17 AM async.Async2$1 run
+INFO: Writing data.
+Jan 20, 2018 11:00:18 AM org.apache.coyote.AbstractProcessor setErrorState
+INFO: An error occurred in processing while on a non-container thread. The connection will be closed immediately
+java.net.SocketException: Connection reset
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:115)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:216)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:487)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:120)
+	at org.apache.coyote.http11.AbstractHttp11Processor.action(AbstractHttp11Processor.java:828)
+	at org.apache.coyote.Response.action(Response.java:173)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:366)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:334)
+	at org.apache.catalina.connector.CoyoteWriter.flush(CoyoteWriter.java:98)
+	at async.AsyncStockServlet.writeStock(AsyncStockServlet.java:102)
+	at async.AsyncStockServlet.tick(AsyncStockServlet.java:82)
+	at async.Stockticker.run(Stockticker.java:84)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 20, 2018 11:02:11 AM org.apache.coyote.http11.AbstractHttp11Processor process
+INFO: Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.InternalInputBuffer.parseRequestLine(InternalInputBuffer.java:192)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1028)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 20, 2018 11:02:11 AM org.apache.coyote.http11.AbstractHttp11Processor process
+INFO: Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.InternalInputBuffer.parseRequestLine(InternalInputBuffer.java:192)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1028)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 20, 2018 11:02:13 AM org.apache.coyote.http11.AbstractHttp11Processor process
+INFO: Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.InternalInputBuffer.parseRequestLine(InternalInputBuffer.java:192)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1028)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 20, 2018 11:02:14 AM org.apache.coyote.http11.AbstractHttp11Processor process
+INFO: Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.InternalInputBuffer.parseRequestLine(InternalInputBuffer.java:192)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1028)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 20, 2018 11:02:31 AM org.apache.coyote.http11.AbstractHttp11Processor process
+INFO: Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.InternalInputBuffer.parseRequestLine(InternalInputBuffer.java:192)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1028)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 20, 2018 11:03:25 AM org.apache.coyote.http11.AbstractHttp11Processor process
+INFO: Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+java.lang.IllegalArgumentException: Invalid character found in the request target. The valid characters are defined in RFC 7230 and RFC 3986
+	at org.apache.coyote.http11.InternalInputBuffer.parseRequestLine(InternalInputBuffer.java:192)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1028)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 20, 2018 11:14:16 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-7777"]
+Jan 20, 2018 11:14:16 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Jan 20, 2018 11:14:16 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Jan 20, 2018 11:14:17 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-7777"]
+Jan 20, 2018 11:14:17 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Jan 20, 2018 11:14:17 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-7777"]
+Jan 20, 2018 11:14:17 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]

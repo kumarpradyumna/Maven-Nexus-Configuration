@@ -1,0 +1,40 @@
+ †νÒ“,SYSTEMCONFIG"$
+date2018-01-26 15:27:30.950+0000"
+actionCONFIG"O
+messageDNexus server configuration was changed: [Repository Target Registry]}—οÒ“,SYSTEMBOOT"$
+date2018-01-26 15:27:31.223+0000"
+actionBOOT"0
+message%Started Nexus (version 2.14.5-02 OSS) «ϊκ“,AUTHC_AUTHZAUTHC"$
+date2018-01-26 15:34:05.866+0000"
+actionAUTHC"L
+messageAUnable to authenticate user [admin] from IP address 115.98.138.73¤—γλ“,AUTHC_AUTHZAUTHC"$
+date2018-01-26 15:34:19.267+0000"
+actionAUTHC"P
+messageESuccessfully authenticated user [admin] from IP address 115.98.138.73±’™™“,SYSTEMCONFIG"$
+date2018-01-26 15:43:43.250+0000"
+actionCONFIG"`
+messageURegistered repository releasereposatory (ID=releasereposatory)  as hosted repository.μ“™“,SYSTEMREINDEX"$
+date2018-01-26 15:43:43.762+0000"
+actionREINDEX"
+messageUpdating repository index "releasereposatory" from path null and below. : Process started on Fri Jan 26 15:43:43 UTC 2018, not yet finished.Ι™“,SYSTEMREINDEX"$
+date2018-01-26 15:43:43.945+0000"
+actionREINDEX"Ό
+message°Updating repository index "releasereposatory" from path null and below. : Process started on Fri Jan 26 15:43:43 UTC 2018, finished successfully on Fri Jan 26 15:43:43 UTC 2018±…™“,SYSTEMCONFIG"$
+date2018-01-26 15:43:44.005+0000"
+actionCONFIG"`
+messageUNexus server configuration was changed: [Scheduled Tasks], change was made by [*TASK]§π“‘™“,SYSTEMCONFIG"$
+date2018-01-26 15:44:31.728+0000"
+actionCONFIG"V
+messageKRegistered repository snapshotrepo (ID=snapshotrepo)  as hosted repository.ηθ—‘™“,SYSTEMREINDEX"$
+date2018-01-26 15:44:32.232+0000"
+actionREINDEX"“
+message‡Updating repository index "snapshotrepo" from path null and below. : Process started on Fri Jan 26 15:44:32 UTC 2018, not yet finished.‹Ϋ‘™“,SYSTEMREINDEX"$
+date2018-01-26 15:44:32.347+0000"
+actionREINDEX"·
+message«Updating repository index "snapshotrepo" from path null and below. : Process started on Fri Jan 26 15:44:32 UTC 2018, finished successfully on Fri Jan 26 15:44:32 UTC 2018±ÿ™‘™“,SYSTEMCONFIG"$
+date2018-01-26 15:44:32.511+0000"
+actionCONFIG"`
+messageUNexus server configuration was changed: [Scheduled Tasks], change was made by [*TASK]~είÿ“,SYSTEMBOOT"$
+date2018-01-26 19:44:26.597+0000"
+actionBOOT"1
+message&Stopping Nexus (version 2.14.5-02 OSS)

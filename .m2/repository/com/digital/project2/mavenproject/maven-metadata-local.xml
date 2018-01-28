@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.digital.project2</groupId>
+  <artifactId>mavenproject</artifactId>
+  <versioning>
+    <release>3.0-snapshot</release>
+    <versions>
+      <version>1.0</version>
+      <version>2.0</version>
+      <version>3.0</version>
+      <version>3.0-snapshot</version>
+      <version>3.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180128071358</lastUpdated>
+  </versioning>
+</metadata>

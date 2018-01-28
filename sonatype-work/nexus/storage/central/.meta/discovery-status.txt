@@ -1,0 +1,6 @@
+#Nexus discovery status
+#Sun Jan 28 05:44:30 UTC 2018
+lastDiscoveryStrategy=prefix-file
+lastDiscoveryStatus=SUCCESSFUL
+lastDiscoveryTimestamp=1517118270935
+lastDiscoveryMessage=Remote publishes prefix file (is less than a day old), using it.

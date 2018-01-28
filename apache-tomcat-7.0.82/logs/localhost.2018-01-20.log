@@ -1,0 +1,1120 @@
+Jan 20, 2018 10:19:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jan 20, 2018 10:19:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jan 20, 2018 10:19:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@29957a3a')
+Jan 20, 2018 10:31:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jan 20, 2018 10:31:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jan 20, 2018 10:31:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@1c26d61')
+Jan 20, 2018 10:31:28 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jan 20, 2018 10:31:28 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jan 20, 2018 10:32:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jan 20, 2018 10:32:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jan 20, 2018 10:32:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jan 20, 2018 10:32:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jan 20, 2018 10:32:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@587cb1d0')
+Jan 20, 2018 11:00:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('913DABC3EA326AF83BF774C861A3C4BA')
+Jan 20, 2018 11:00:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.runtime.JspApplicationContextImpl', 'org.apache.jasper.runtime.JspApplicationContextImpl@539dc72a')
+Jan 20, 2018 11:00:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.ELInterpreter', 'org.apache.jasper.compiler.ELInterpreterFactory$DefaultELInterpreter@12078b7b')
+Jan 20, 2018 11:00:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('913DABC3EA326AF83BF774C861A3C4BA', 'javax.servlet.jsp.jstl.fmt.request.charset', 'UTF-8')
+Jan 20, 2018 11:00:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('913DABC3EA326AF83BF774C861A3C4BA', 'numguess', 'num.NumberGuessBean@327806b5')
+Jan 20, 2018 11:01:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('C72F9A6906222947CC4556AC6180F1BB', 'cart', 'sessions.DummyCart@13cdc7d5')
+Jan 20, 2018 11:01:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('C72F9A6906222947CC4556AC6180F1BB', 'cb', 'colors.ColorGameBean@7a738286')
+Jan 20, 2018 11:01:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('C72F9A6906222947CC4556AC6180F1BB', 'table', 'cal.TableBean@27997bae')
+Jan 20, 2018 11:01:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('BE6DAF50AAABDDA4FA84FA1F0A918FC2')
+Jan 20, 2018 11:01:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6AB2C35353B5ED90D4EE29076AB687BD')
+Jan 20, 2018 11:01:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('33A85C5AF4178DD82BF16E8E3F6A1298')
+Jan 20, 2018 11:01:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('67F56C2FF42AF95722E8AE5406F30DAA')
+Jan 20, 2018 11:01:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('2C8E4172D34529A8F380799D95A906EE')
+Jan 20, 2018 11:01:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('01DF69C124F880CAA73A6AF05F53FDE2')
+Jan 20, 2018 11:01:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('AFC9D372EA8DFF92C48AAB66574206E1')
+Jan 20, 2018 11:01:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('11F42BC623B8DDC96226E78494BCF2EF')
+Jan 20, 2018 11:01:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('2F530410CAB30582F552B87374F84CE6')
+Jan 20, 2018 11:01:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('06B926AAC9B1DF6B6EB5BFD671B2EB8F')
+Jan 20, 2018 11:01:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('264A368C9652E0F1DA9440E9D078448B')
+Jan 20, 2018 11:02:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('77E3A69BB3B63340AD5A260279BFBC6F')
+Jan 20, 2018 11:02:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('2BF630B611C3FDE5D12B995128AF2498')
+Jan 20, 2018 11:02:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('3E214B4075DE83037062C42D6AA9BEF7')
+Jan 20, 2018 11:02:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('313BAEE1B318CEC850785E306A5E2745')
+Jan 20, 2018 11:02:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('845BD22D3541B758F8EE4BE5883D9A68')
+Jan 20, 2018 11:02:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('B11CD6B77D7BC73C1BA870049EE9DAB6')
+Jan 20, 2018 11:02:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('2DA2FA9DD1DFFBCD4D9DDC2B8184E517')
+Jan 20, 2018 11:02:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('EBD74664AB5B33241B5924F8E66B286B')
+Jan 20, 2018 11:02:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('2DA2FA9DD1DFFBCD4D9DDC2B8184E517', 'cart', 'sessions.DummyCart@6245c471')
+Jan 20, 2018 11:02:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('EA3C794DFAE0A1911AB9B7B3F2B785B8')
+Jan 20, 2018 11:02:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('745C679B805A00C5C3F64F5A960343E8', 'numguess', 'num.NumberGuessBean@58b4738c')
+Jan 20, 2018 11:02:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('705CEBA0DE9E1F632D8126D62A67DCF9')
+Jan 20, 2018 11:02:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('1E28A1F0E2AB17E6B7E065F23D495C18')
+Jan 20, 2018 11:02:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('745C679B805A00C5C3F64F5A960343E8', 'cb', 'colors.ColorGameBean@1510cae3')
+Jan 20, 2018 11:02:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('745C679B805A00C5C3F64F5A960343E8', 'table', 'cal.TableBean@2ea3c6fc')
+Jan 20, 2018 11:02:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('1E6283B0E31C2811A1131BBBD5C7EB5D')
+Jan 20, 2018 11:02:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('58B27CCAD0D8A411A843AD65CE4FA8B7')
+Jan 20, 2018 11:02:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('D943BCD464B7520AD7ED5363299F4789')
+Jan 20, 2018 11:02:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('9E8960C365A926BDD44FBA12BBF80868')
+Jan 20, 2018 11:02:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('82F669F6058010D98C5D96C4CD3EC564')
+Jan 20, 2018 11:02:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('21620C34B782B8E4D0BB201CA664F62A')
+Jan 20, 2018 11:02:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('CBA0D3CA29E83F2562B00AEC727480AD')
+Jan 20, 2018 11:02:34 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('65D7CA69B79C90D3566CCBBAB22143BE')
+Jan 20, 2018 11:02:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('CCA53D37F11E6361814F54F63A23CBE6')
+Jan 20, 2018 11:02:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('C474E226B346A893767B8BCD23279944')
+Jan 20, 2018 11:02:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('03CFBC24DB936A2E870B8CC85E98A825')
+Jan 20, 2018 11:02:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('589A30F238F5484F981C293655D27FCF')
+Jan 20, 2018 11:02:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('DE1C61EEED04403D5ACEB64294D59EE2')
+Jan 20, 2018 11:02:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('A9EC5626F8A433F6201711B97EBEC876')
+Jan 20, 2018 11:02:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('EA5D35C0D373558054BA50E2CD1C2C33')
+Jan 20, 2018 11:02:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('BF1AD5AE666E00F3607A32AD9D25EFA3')
+Jan 20, 2018 11:02:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('14BD14D2789D3549268147531D1E7EA4')
+Jan 20, 2018 11:02:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('D4A39A5A23BDC20C19DC5BB8BA6A78A1')
+Jan 20, 2018 11:02:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('ACCED3DBDAC59184F9E997D6E750A970')
+Jan 20, 2018 11:02:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('C228EEB73F99FABCDEF5ADE7E57E2B4F')
+Jan 20, 2018 11:02:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('E3B2E7635753FF286B7C072E07018853')
+Jan 20, 2018 11:02:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('10E83583FBAA781D99F7650E192F02B7')
+Jan 20, 2018 11:03:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('1B0D8B4DD4ABC9ACDC44F22C04BB6AA2')
+Jan 20, 2018 11:03:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('CA798566F4B5ADB693FE7E6425802A46')
+Jan 20, 2018 11:03:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('B69FAD8BCC28054AAB7B551F23ADB067')
+Jan 20, 2018 11:03:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('348A69852237578D315328DACBC912EB')
+Jan 20, 2018 11:03:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('BECBE1901516B55E72310E492A554CFB')
+Jan 20, 2018 11:03:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('FCF9060B0C188CBC56D038347A062240')
+Jan 20, 2018 11:03:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('3EFD81F91E42160935E0A5AAE9F46B2C')
+Jan 20, 2018 11:03:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('BDAFB13BA559B7FE2B795E5B65FFCCB3')
+Jan 20, 2018 11:03:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('21F2ED69AEB5CC5593CEEF78AEAC4E30')
+Jan 20, 2018 11:03:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('3BB0476B74B3B2B636FF90FDDF8FA7F4')
+Jan 20, 2018 11:03:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('9350992C0536EDCA9D8866C06E2CA06A')
+Jan 20, 2018 11:03:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F44AF49E7C7D691ED2FDAF15881912A1')
+Jan 20, 2018 11:03:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4A3B9A02A0AD5E9AACF71CD3268B1926')
+Jan 20, 2018 11:03:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('2E713AD026D94A9C4EBC664E64B36517')
+Jan 20, 2018 11:03:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('62EE8D0BC4974D2D45D470D1E6DBF989')
+Jan 20, 2018 11:03:28 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('841740D14A4A6ECBA1C51DB9CC2A0D55')
+Jan 20, 2018 11:03:28 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('795A7DBB25558CB7AC87ED4CD4694E1E')
+Jan 20, 2018 11:03:29 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('DE8A0EF63D0D90948391DFF183210FBE')
+Jan 20, 2018 11:03:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('50DDCD937E7BA6BB0A672E1A5BD74798')
+Jan 20, 2018 11:03:34 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('74500323975FCE8B91838157350EC6B8')
+Jan 20, 2018 11:03:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('C1DB44ECDB6CACF1D7CACEF2B5A3F636')
+Jan 20, 2018 11:03:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('49829918DCD5537B43005AC2E737E7EC')
+Jan 20, 2018 11:03:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('CAB63F4E24934948BAFB1481E0514001')
+Jan 20, 2018 11:03:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('81B1A2225611B8A99D0F95178C1B3CCB')
+Jan 20, 2018 11:03:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('71BA74A501D5D9BA678B0B39EF994219')
+Jan 20, 2018 11:03:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('8DCA7AD144727A928F6B183C733664D6')
+Jan 20, 2018 11:03:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('16C076DE145E0FB834E1382FADD2101C')
+Jan 20, 2018 11:03:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('62AB57DA0A034FFBED49D268A5906CD5')
+Jan 20, 2018 11:03:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F978A1908C59A554C33AA3392F8BE151')
+Jan 20, 2018 11:03:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('B69A9C594D879659706E4F58E949627E')
+Jan 20, 2018 11:03:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('61CF0F3D990303D6B32905B42802CA21')
+Jan 20, 2018 11:03:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('48B204591FA601177BEBF7649FE0BD90')
+Jan 20, 2018 11:03:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('61154FABD7D85BC3C3AB5C745B8DD31B')
+Jan 20, 2018 11:03:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('AF36E6EDDE64E9F66680821B828F7D3C')
+Jan 20, 2018 11:03:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('81880634F20EE7DA54536856E54EEB4E')
+Jan 20, 2018 11:03:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6D94351980C508142CBC35FD9E82BEA0')
+Jan 20, 2018 11:03:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('71FD29C76EE4C77E4DA531FFE564520E')
+Jan 20, 2018 11:03:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('D959420A55C421DC3389213917850583')
+Jan 20, 2018 11:03:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4F251F64EBD8F2D150D92EB4B0304546')
+Jan 20, 2018 11:04:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('29A323138C1C74FC3BA42CF8C5642BF4')
+Jan 20, 2018 11:04:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('8B5181F0DA9FF686A6EAD00846B38E51')
+Jan 20, 2018 11:04:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('A4C5FC3B9C2178E052FFC1328ACA7FCF')
+Jan 20, 2018 11:04:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('0A1AE64FD9264EB8D7AA18A65DA047F0')
+Jan 20, 2018 11:04:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('570FBBB8B892BE76E26AF74FCD9C1010')
+Jan 20, 2018 11:04:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('976239B942243D4F6DD1973A0CF3E6E3')
+Jan 20, 2018 11:04:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('455820B5444180A04F7722646B6867B1')
+Jan 20, 2018 11:04:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('455820B5444180A04F7722646B6867B1', 'cart', 'sessions.DummyCart@68c3644c')
+Jan 20, 2018 11:04:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4BDA5D06492667B0D4C27A68E6BACD48')
+Jan 20, 2018 11:04:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('3996A98F9A4D85E8114498D21CDDACBA')
+Jan 20, 2018 11:04:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F03B32C8C1ABCD15775326C86001719B')
+Jan 20, 2018 11:04:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('F03B32C8C1ABCD15775326C86001719B', 'numguess', 'num.NumberGuessBean@246ef3cb')
+Jan 20, 2018 11:04:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('C1E1DDC6B06D682A4F2F6215B2056FC1')
+Jan 20, 2018 11:04:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('32CD7F9C0A924C05DEA6A681C626B2E8')
+Jan 20, 2018 11:04:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('1389B621D32D5B28107A527F8F1DE68B')
+Jan 20, 2018 11:04:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('CD622BCC1F8C58B8F78B9F6B5BEE4ED4')
+Jan 20, 2018 11:04:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('C8B0AE43A4ECC541DBCE896A19695CE5')
+Jan 20, 2018 11:04:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('84586F094AF4FE8A413B33BFFF483114')
+Jan 20, 2018 11:04:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4BE68ED0ABBBE588DC3745442DA6EEEA')
+Jan 20, 2018 11:04:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('468090BCCCCCE5D404A7FEB81B29B07C')
+Jan 20, 2018 11:04:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('3FAF549D45D4FD90215F86CEE86B69A7')
+Jan 20, 2018 11:04:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('196115DE0E049C85B3CE020C42FF4E34')
+Jan 20, 2018 11:04:29 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('D471108E074420A6935985F7D1648C22')
+Jan 20, 2018 11:04:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F52A972B9CB504F223F6221E6BBE37B6')
+Jan 20, 2018 11:04:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('CDB33E1BC5350C64025B05D97761EE1A')
+Jan 20, 2018 11:04:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('ADCFF70B0EFE682CDF4634C0FF524753')
+Jan 20, 2018 11:04:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('A9871DE43FC555A69203B841570E92EC')
+Jan 20, 2018 11:04:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('7C000BB2C51F6D1A02AA274311AF3EBD')
+Jan 20, 2018 11:04:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4485212B3CC13FC0AF6FE906DA2668A1')
+Jan 20, 2018 11:04:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('C30E892703C9517F47BE751F8B56D04C')
+Jan 20, 2018 11:04:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('D3F2D2EFA3A70A722F5C1319A1FC008F')
+Jan 20, 2018 11:04:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('35A45C5BA642DEB332F1558EA025C0C9')
+Jan 20, 2018 11:04:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('975AA11B869C061058E96DEDF7D57AF9')
+Jan 20, 2018 11:04:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('522B8C729BB557CCA9E7E1BCC02556E2')
+Jan 20, 2018 11:04:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('732182397A755D6E224BAEE1D33F2F99')
+Jan 20, 2018 11:04:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('24D6F415BEE7F747F4DFB0A94726544C')
+Jan 20, 2018 11:04:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('51035709AA46C1D25BB25D376106387A')
+Jan 20, 2018 11:04:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6DCA5CB829A9D9EA25CE66B96C8C83AD')
+Jan 20, 2018 11:04:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6BC242D60472C5AD17A57BA7FE8763C5')
+Jan 20, 2018 11:04:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('AB15B88778FC309F7BFE0187E5F78573')
+Jan 20, 2018 11:04:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('9254175D628B0844B4FB615B40E60804')
+Jan 20, 2018 11:04:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('A64C8AC3B33329500D914C10CB3C19D0')
+Jan 20, 2018 11:04:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('1817AA8C470111A5226B74F1A1E51896')
+Jan 20, 2018 11:05:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('106BDC415492EA181652984B63D6BA82')
+Jan 20, 2018 11:05:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('78852571DBB1998718964CAF2FC9FD5E')
+Jan 20, 2018 11:05:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('37C8431799DD855E9327DEE810617E92')
+Jan 20, 2018 11:05:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('8FABD64B2F09F86934CD83237221FF70')
+Jan 20, 2018 11:05:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('5009D7C306EBD36FA2B94177CEC53058')
+Jan 20, 2018 11:05:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('B8ABD1086CB6D23FEDC06EB0D7453381')
+Jan 20, 2018 11:05:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('5C440108928470090ECB4E0212AD4558')
+Jan 20, 2018 11:05:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('0127BF8F665BB8262EAB32F28A9FB4C0')
+Jan 20, 2018 11:05:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('388DF24054F3F671B383C107573CACE3')
+Jan 20, 2018 11:05:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('481F534DE3C82815158715D0FB5C4A13')
+Jan 20, 2018 11:05:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('8935370C1E5052900D6CD760DDA9E91E')
+Jan 20, 2018 11:05:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('8A277D8BD774C04BCAABF41F20D7FAC5')
+Jan 20, 2018 11:05:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('83960170E4337F7EFD38E7FF07275CEC')
+Jan 20, 2018 11:05:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('E8E21CF22AE07B46B2DF8C424727DE7A')
+Jan 20, 2018 11:05:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('90B0E3CFC13EB59A908A718FE29B2903')
+Jan 20, 2018 11:05:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('682D03C297E0F1C6DD21205EDD31D098')
+Jan 20, 2018 11:05:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('0C86643513B979834D83421ABA90A5A6')
+Jan 20, 2018 11:05:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F766F2E3FE70834462765F9A21DF4BE2')
+Jan 20, 2018 11:05:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4E5C0376DCBF6B244CA567E27AEBB86B')
+Jan 20, 2018 11:05:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('8464D492E3133D3FC83482F0AEDE16F1')
+Jan 20, 2018 11:05:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('29445F3AC34A7BB3DD9C9B9F239B5C8F')
+Jan 20, 2018 11:05:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('24EF510B156D556B17024C14D60A8EFB')
+Jan 20, 2018 11:05:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('CFDFC1BA6F6EF62F90D269147B654212')
+Jan 20, 2018 11:05:28 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('C33DE7CCF7E849997BC2697A8ACF8CC7')
+Jan 20, 2018 11:05:29 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('350635B1F4F56C2D6D0693B436E7A511')
+Jan 20, 2018 11:05:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('BC7AA5B6CB1AF5D964BD75EB96E68602')
+Jan 20, 2018 11:05:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('12D05F42AC24EC5C48C615C9D120F9B6')
+Jan 20, 2018 11:05:34 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('D942152CA9827E1586E020659B0B0AD9')
+Jan 20, 2018 11:05:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('1B0F29544D5E00FA6E473D660A3B0AA6')
+Jan 20, 2018 11:05:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('EB674B4D1AEA20C583166E7E764F803D')
+Jan 20, 2018 11:05:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('FF3DDFB714A664C404FF623D0669BF6F')
+Jan 20, 2018 11:05:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F800D8EB9F50C4A194DB7073BEAD3B6F')
+Jan 20, 2018 11:05:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6F7628B6C9C0846B67D4BDA6785CFFCB')
+Jan 20, 2018 11:05:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('8348F937894592C54D40D17C5673FB88')
+Jan 20, 2018 11:05:44 AM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/examples] threw exception [javax.servlet.ServletException: javax.servlet.jsp.JspTagException: Invalid JSP file %2e%2e/%2e%2e/%2e%2e/%2e%2e/system/autoexec.ncf] with root cause
+javax.servlet.jsp.JspTagException: Invalid JSP file %2e%2e/%2e%2e/%2e%2e/%2e%2e/system/autoexec.ncf
+	at examples.ShowSource.doEndTag(ShowSource.java:46)
+	at org.apache.jsp.jsp.source_jsp._jspService(source_jsp.java:103)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 20, 2018 11:05:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('C69E97D3ABA2F97AE727AED0A00C883A')
+Jan 20, 2018 11:05:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('B65F4AE09E51A16F1DBD6CEBF95DB85B')
+Jan 20, 2018 11:05:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('7FA4EE69B5430B3BEBB483A72BC01E5B')
+Jan 20, 2018 11:05:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('7585D7CBB8B64C2CC64F60B2AE9236BB')
+Jan 20, 2018 11:05:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('B4E1BC4B6DBC943133F3E7276F5D4335')
+Jan 20, 2018 11:05:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('0BCC509268AF71D9275965770677EB18')
+Jan 20, 2018 11:05:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('FBA72DCC1D0FEDE6C4E896B720429AC3')
+Jan 20, 2018 11:05:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('665CD489DB1A455F01F90B744747F35B')
+Jan 20, 2018 11:05:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('57E7C39E77523F4D986193E52A32F99C')
+Jan 20, 2018 11:05:57 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F234BCC8F73121BC90ED5CCA9695D629')
+Jan 20, 2018 11:05:57 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('8D26D9F207E09BA04053A73F24516101')
+Jan 20, 2018 11:05:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('E85F9D1AA9990BAEF680EA6FB4D1C112')
+Jan 20, 2018 11:06:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('D75D9375565C0AC3EBA0651014B0C844')
+Jan 20, 2018 11:06:04 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('C20B15F8A7C73E4D4A3DBACA4F147258')
+Jan 20, 2018 11:06:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('5A87BBC8D4FE1F67C2A2DC8ACACC4FFB')
+Jan 20, 2018 11:06:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4D4633E36FCAD876141F14A433F4A0D4')
+Jan 20, 2018 11:06:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('943B94C2B7E3EF9DC557464554FD6351')
+Jan 20, 2018 11:06:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('C2C9451141E26F9883C689E4571738FF')
+Jan 20, 2018 11:06:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('BD569AAA015B1A4E637F40BAB89F8808')
+Jan 20, 2018 11:06:11 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('7D671EB912E1F55378168441D6F85A91')
+Jan 20, 2018 11:06:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('EB729A20DFF5E8A38968DF13A80500A8')
+Jan 20, 2018 11:06:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('BEEE9C431B981F284A38044FA798E3ED')
+Jan 20, 2018 11:06:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('DA56E01DF2448B9A6FF5EEB5B74CF63F')
+Jan 20, 2018 11:06:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('5599B8DDBE59D6DB8EC3FC9352A19BEA')
+Jan 20, 2018 11:06:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('12D3CEC28F6235760F61828693F39288')
+Jan 20, 2018 11:06:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('34B9E6CAAA5D3201981711F2DEE81D12')
+Jan 20, 2018 11:06:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('5FE0938C78438568A6501D12D862DC51')
+Jan 20, 2018 11:06:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('338CBAD56F35B38C86F43F27552DD4FD')
+Jan 20, 2018 11:06:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('EB6397AB9EBFC0FCC51186433367C418')
+Jan 20, 2018 11:06:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('1BFFC0C5A2D9F940F8898B4E1E723313')
+Jan 20, 2018 11:06:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('B7C72ACB4E43DBD822F058EABE106478')
+Jan 20, 2018 11:06:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('B14D5EC975BE1154FB8DAFCB288FA168')
+Jan 20, 2018 11:06:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('7EAE2D9595A5922146F11DA92E530746')
+Jan 20, 2018 11:06:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('489961970794E3F524AEBCCC93FBBCEA')
+Jan 20, 2018 11:06:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('7FAE4D8C6B523DDE12BCAD2E43DEA727')
+Jan 20, 2018 11:06:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('403F70027A9A7741561410ADAB14D928')
+Jan 20, 2018 11:06:34 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('7EAA27F258AFF5C2D1709934E9D6B15F')
+Jan 20, 2018 11:06:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('34B6DE457C05C3863981700DC0AD9D01')
+Jan 20, 2018 11:06:35 AM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/examples] threw exception [javax.servlet.ServletException: javax.servlet.jsp.JspTagException: Invalid JSP file ?] with root cause
+javax.servlet.jsp.JspTagException: Invalid JSP file ?
+	at examples.ShowSource.doEndTag(ShowSource.java:46)
+	at org.apache.jsp.jsp.source_jsp._jspService(source_jsp.java:103)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 20, 2018 11:06:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4B04B4C857F13A965F835194E813E297')
+Jan 20, 2018 11:06:35 AM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [jsp] in context with path [/examples] threw exception [javax.servlet.ServletException: javax.servlet.jsp.JspTagException: Invalid JSP file /jsp/] with root cause
+javax.servlet.jsp.JspTagException: Invalid JSP file /jsp/
+	at examples.ShowSource.doEndTag(ShowSource.java:46)
+	at org.apache.jsp.jsp.source_jsp._jspService(source_jsp.java:103)
+	at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:439)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:395)
+	at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:339)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Jan 20, 2018 11:06:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('BE24DB12D62680B38EC7F7A0F3E57719')
+Jan 20, 2018 11:06:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('52598977A487492FDC5A873446B489EB')
+Jan 20, 2018 11:06:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('957E935407A7895CA28E05DB8CB2EE68')
+Jan 20, 2018 11:06:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('AFA7AF979DA6670FC1EF1431E7543796')
+Jan 20, 2018 11:06:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('42B6DCDA4FE0015A366D254130519D2B')
+Jan 20, 2018 11:06:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('7168B7C07DAF747F384F224FD24626C9')
+Jan 20, 2018 11:06:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4D6C25C5903A9DFEC5CF4E6A35BA273E')
+Jan 20, 2018 11:06:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('DA7785BB97303D3777025508D6B6A472')
+Jan 20, 2018 11:06:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F25538CBEA60E1CBB157E5642EECD909')
+Jan 20, 2018 11:06:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('29DD0917BD754142931A000FE024C458')
+Jan 20, 2018 11:06:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('51807DA106C8169C6F9E2C6BFF820139')
+Jan 20, 2018 11:06:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('51807DA106C8169C6F9E2C6BFF820139', 'cart', 'sessions.DummyCart@2c5b3eaf')
+Jan 20, 2018 11:06:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('ABCFD7E051AD49E6E0C3584723E3097D')
+Jan 20, 2018 11:06:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('58A753A90E42E5F53A11646089B40C6D')
+Jan 20, 2018 11:06:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('82FAA1AF7B6BF6485EB040EC130726F1', 'numguess', 'num.NumberGuessBean@1a3fe93b')
+Jan 20, 2018 11:06:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4F742099278B156CF8ED5678DA215707')
+Jan 20, 2018 11:06:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('2EF5156B52D230A90BAFECB8BB11044E')
+Jan 20, 2018 11:06:57 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('7C645C602616F6E14E5EA5D13B4928A7')
+Jan 20, 2018 11:06:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('BD7AEABEAC2BB58E4446CBE5B5EE4611')
+Jan 20, 2018 11:06:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('82FAA1AF7B6BF6485EB040EC130726F1', 'cb', 'colors.ColorGameBean@15abaaa9')
+Jan 20, 2018 11:07:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('82FAA1AF7B6BF6485EB040EC130726F1', 'table', 'cal.TableBean@6c61761b')
+Jan 20, 2018 11:07:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('85DEA0D640BADF06799C82D4D2CD9D9A')
+Jan 20, 2018 11:07:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('3A2BF9003B224999032C06366FBD28D6')
+Jan 20, 2018 11:07:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('497E2E29BBEB94995D9DFBDF5598FF38')
+Jan 20, 2018 11:07:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('37EAFA8D1DF0D4ACA9796AF69826A877')
+Jan 20, 2018 11:07:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('8A1E2966C9602D3405C358A47F980138')
+Jan 20, 2018 11:07:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('578C738EE1FFFABD82349F6E8A86DB83')
+Jan 20, 2018 11:07:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('76D8627E7B367E75562BAD651D18CAA2')
+Jan 20, 2018 11:07:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('E757C0F5852F54194C58DAD55850313E')
+Jan 20, 2018 11:07:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('9B7E99CF68ABF0A35E5EDC0BED122AB0')
+Jan 20, 2018 11:07:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F621491565D0AA8F135006DAE0D50A5F')
+Jan 20, 2018 11:07:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F63580FDCDE58F39DC6EF85200B4A807')
+Jan 20, 2018 11:07:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('C5B60D719E7AEA8B314CB5A3EB87C44C')
+Jan 20, 2018 11:07:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('1E69E35F3CADBE8D2004DC936DF9761F')
+Jan 20, 2018 11:07:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('E0D6A26DBCB7E7251D944F8A07F4D659')
+Jan 20, 2018 11:07:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('B13A73E0CC020822B8FA461981328F02')
+Jan 20, 2018 11:07:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('879049565F1CBDC93A567CC51A1D8A72')
+Jan 20, 2018 11:07:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('8CDFBF3434590F9ED48770F7C90398C8')
+Jan 20, 2018 11:07:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('96DE36113E4227186FBA5C282B11A336')
+Jan 20, 2018 11:07:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('D06F6029A3A0D95B983AD77D91E6E019')
+Jan 20, 2018 11:07:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('06D9B95DFE42B355064AE96C59D1BFFF')
+Jan 20, 2018 11:07:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('1AA647120A3146C100571E30FC91BE53')
+Jan 20, 2018 11:07:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('13FC4BD4150980A4951FD2599011DF89')
+Jan 20, 2018 11:07:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('08736F8C12640D3EBB45FE3AF1DAB3D0')
+Jan 20, 2018 11:07:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('EEA8C4E42B4B22A42F71BA68F52E0EF8')
+Jan 20, 2018 11:07:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('55A4981BB860BD2401FBB0E520D8C4D2')
+Jan 20, 2018 11:07:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('12FA8CB44A624A4995A2CB6504DB0359')
+Jan 20, 2018 11:07:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('D2A3EE673E9C6941CDB3DE99CB6DED8D')
+Jan 20, 2018 11:07:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6BF82CA974F1DDC2CF90F9FD8CCC7A57')
+Jan 20, 2018 11:07:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4E1BE1CEE2D64D23D24C14BDC5D6F943')
+Jan 20, 2018 11:07:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('E034A3D869A2CEBA7C99F0429AE62E52')
+Jan 20, 2018 11:07:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('2C77C52C9DF38FBD1F51A9115388DF61')
+Jan 20, 2018 11:07:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F6DD2DD71381B595D6CB0A30CE8F2DD6')
+Jan 20, 2018 11:07:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6B9AB93D0DDB5A5932BB44F55FE6202A')
+Jan 20, 2018 11:07:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('AD21FF7A0D00E2A489F2854C411760F9')
+Jan 20, 2018 11:07:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('FDE15F34A30B526603EAD21619924F80')
+Jan 20, 2018 11:07:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('E00F520CB84D96EB4546F2CE9162E8BB')
+Jan 20, 2018 11:07:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('97DB6A8FA0E6F695EE61005C7411BFD4')
+Jan 20, 2018 11:07:57 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('782460662BA0C2EDFBCA9B69AA756729')
+Jan 20, 2018 11:07:57 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('53E8A319C21F5D81F6C9826D4C709D23')
+Jan 20, 2018 11:08:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('A6217D018EAA98F053E673098559CB38')
+Jan 20, 2018 11:08:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4A1406A41D19A9E6EE0A036B9ED81AD4')
+Jan 20, 2018 11:08:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('EBDE209456DCE1F23879CA6AE41A162D')
+Jan 20, 2018 11:08:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F345E0EABF5B5B502DF5796481A23DE3')
+Jan 20, 2018 11:08:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('17C6EF1450CA46ADF22927C1B84C1516')
+Jan 20, 2018 11:08:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('132291583F69A2815EAF5E015F38522A')
+Jan 20, 2018 11:08:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F3DEFE615290FB1130EFAEB6253F5BAD')
+Jan 20, 2018 11:08:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4AFA65178EFD13D287C2AAC4AD79F86E')
+Jan 20, 2018 11:08:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4DE1236301AA5AAD94CB92C1A185DC33')
+Jan 20, 2018 11:08:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('E5EBA23EAB99E70EF507AC0EF39D1382')
+Jan 20, 2018 11:08:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('99119F934B592EBC76DAA70C0AAF4311')
+Jan 20, 2018 11:08:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('989078F0616D727E180658C1D760469F')
+Jan 20, 2018 11:08:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('B0AE66B7753741D72696969EC139A727')
+Jan 20, 2018 11:08:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('3204EAEEF4AED99CBD98671EB2CF288F')
+Jan 20, 2018 11:08:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('AD4BE7270AF3AD77035A9FD83711AE88')
+Jan 20, 2018 11:08:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('8EA3A222DAC856A2773928BDAA24F551')
+Jan 20, 2018 11:08:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('484FAAD98B41A5B618EB44C7E4FB48C1')
+Jan 20, 2018 11:08:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('C451443B25CC218E9E275B992AB65858')
+Jan 20, 2018 11:08:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F12FE52C4AD991474CE55E02D045F2F3')
+Jan 20, 2018 11:08:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('BABC0989D37181B56565B5E52B874CC5')
+Jan 20, 2018 11:08:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('9FA16A698BCFD1BBA368BF23C5EF2FA8')
+Jan 20, 2018 11:08:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('49DC5F67ABE99D3FFBE50D18FC9A6B87')
+Jan 20, 2018 11:08:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('8579857681122AE908E07D004A1CEDE3')
+Jan 20, 2018 11:08:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('85CF3538E87D399EED18CAB6DE11A74A')
+Jan 20, 2018 11:08:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('3A1DB67BAE422B11FE0F3E2DE699980E')
+Jan 20, 2018 11:08:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('B781AE505CBEED01ED6BEB764A3A4133')
+Jan 20, 2018 11:08:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('46B8ADA4A1D3BA48066D749A8A2710D2')
+Jan 20, 2018 11:08:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('7CAEF59E4A156B92AB6B5B72470F9A53')
+Jan 20, 2018 11:08:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('585C91F26819DEDBB62FA216B162915F')
+Jan 20, 2018 11:08:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('0035E1F6A75400CC56B31AACEB0B69CA')
+Jan 20, 2018 11:08:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F6191D995F55EDB4C498CC2A1716501C')
+Jan 20, 2018 11:08:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('E0AC1038621F5F6C5E2990945F8A4476')
+Jan 20, 2018 11:08:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('2B8EE762639C0EC8D618CD5229F9126D')
+Jan 20, 2018 11:09:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('E8EC7BBAE0449D26A98F8BF6735F247F')
+Jan 20, 2018 11:09:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('C33FF9463C8E80C7C67A55C667D35C86')
+Jan 20, 2018 11:09:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('A79F1DB1D6D840D4DC321D742B02E94A')
+Jan 20, 2018 11:09:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('7E0978B4ABAADADC9551B0205F29045B')
+Jan 20, 2018 11:09:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('39695D53C12967EDAA03F2EB36B6A191')
+Jan 20, 2018 11:09:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('1EA510A78100DF81D4FB26E3D1ED7EC5')
+Jan 20, 2018 11:09:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('E06BEAF09529E611043B348AF7B3F816')
+Jan 20, 2018 11:09:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('3C178820AC1C725B11F403EE2B8E075F')
+Jan 20, 2018 11:09:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('9DC079CDDA779A96CF4D12C70CAF27A0')
+Jan 20, 2018 11:09:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('47B029B4616C7230BE5B0D27AE48DB5A')
+Jan 20, 2018 11:09:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('A000051E754ED90DF779AD6459483102')
+Jan 20, 2018 11:09:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('8D767971810590481D41F16592D03B27')
+Jan 20, 2018 11:09:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6B37D771D22131CE8700649FC9089AE0')
+Jan 20, 2018 11:09:21 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('94BAB61581C3CE5C3D5CB1F21E38A52A')
+Jan 20, 2018 11:09:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('1BAD55C51881898DCCDFD817ABA94B41')
+Jan 20, 2018 11:09:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('B25982722988B5A4DC60A4A4F72D7DC8')
+Jan 20, 2018 11:09:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('D5D0797A833A7AA7597A855B6D9BDB87')
+Jan 20, 2018 11:09:29 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('C5A775548DCFF5859E60556269F3B596')
+Jan 20, 2018 11:09:29 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('35D1E28A44556A0BDAC3F0A976644DE6')
+Jan 20, 2018 11:09:29 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('D265D08561FE66176951A0CE7EBE0886')
+Jan 20, 2018 11:09:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6D9176EA30462C7FD0AE5A7D7B456C23')
+Jan 20, 2018 11:09:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('20A3313E3CB3D55F76F6A70DAF40CB25')
+Jan 20, 2018 11:09:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('3FB889D8EDAB62F3A050DC64777771F9')
+Jan 20, 2018 11:09:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('83865B112FB80C43799677D618CA6C78')
+Jan 20, 2018 11:09:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F16DB6C0CE4DE862BBB94AD0B9542F86')
+Jan 20, 2018 11:09:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('12F5811FC9811CE74E78885A550F3BC1')
+Jan 20, 2018 11:09:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('E5D3F84AECEB205F80BCDDC025102B9B')
+Jan 20, 2018 11:09:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('7DBB5C68D8ACE5F1665E342176802356')
+Jan 20, 2018 11:09:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('3DBAAF10F2DF8E999CCFBC346FFB6D30')
+Jan 20, 2018 11:09:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4140426BF48FEDA3975814A151113288')
+Jan 20, 2018 11:09:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('196D011874C372C3D62512F2CB626BBA')
+Jan 20, 2018 11:09:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('D5442B1BA99AE84888E8E5DE960877D7')
+Jan 20, 2018 11:09:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('2923CB1175283EDCD67042C80E7B1F88')
+Jan 20, 2018 11:09:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4EA557812BFC62D9F12D46C0957E6363')
+Jan 20, 2018 11:09:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F825DF18DE80B4468820CE6D6618C92A')
+Jan 20, 2018 11:09:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('5C51162452790D84B4ED5C55A28324B1')
+Jan 20, 2018 11:09:54 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('7C7379B2B0B4A3F149974FDB8B8D187F')
+Jan 20, 2018 11:09:57 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('40936C04CF78E2C84D478482DA6E0139')
+Jan 20, 2018 11:09:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('A0440CF31959F99B84DFABFABE9813EA')
+Jan 20, 2018 11:10:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('AAC75E01A127A2A91B2F6E168A83B424')
+Jan 20, 2018 11:10:01 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('217D58CCE37E4A45FA5D44D23119AC87')
+Jan 20, 2018 11:10:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F042C72DC22073043E06F9AB49669ACC')
+Jan 20, 2018 11:10:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('B8ED87A85CBA1B6567030CA48FE3F9A6')
+Jan 20, 2018 11:10:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('BA84F7A3193990DA00BFFEC183D83A07')
+Jan 20, 2018 11:10:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4809EBDC8C1A3B3FB623D34D5E8E3A0F')
+Jan 20, 2018 11:10:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('926F625ED34B85A418E3EC8668FF8654')
+Jan 20, 2018 11:10:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('662B5FB0844DA8AC6903C34D99CF8D63')
+Jan 20, 2018 11:10:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F5A198C97F9D4CEB4CEC4735957326B8')
+Jan 20, 2018 11:10:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('800BFE764B973BCB14897F26EE66C870')
+Jan 20, 2018 11:10:14 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('9C22CDB775E7253891C1500DDE6D3D27')
+Jan 20, 2018 11:10:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('18786269A1345177303A1C335ACBF626')
+Jan 20, 2018 11:10:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('0A694B30DC6BE0C53E77730AD66FF761')
+Jan 20, 2018 11:10:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('29FC3275565429DDE4D3938827CCBCEE')
+Jan 20, 2018 11:10:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('23A008CBD4972211C66635DAB59BEE77')
+Jan 20, 2018 11:10:22 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6E2CC1A6F9A5E8F4D4CBE7C005F9BF64')
+Jan 20, 2018 11:10:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('EFCF48FF63802660E154A6E7401DFE5C')
+Jan 20, 2018 11:10:24 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('202113084DA431DAEB2917573D725CFD')
+Jan 20, 2018 11:10:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('A857B7D292A1001568F6760C41E45B87')
+Jan 20, 2018 11:10:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('D399CA9D9E27E85E135BF6CCEE8D71BF')
+Jan 20, 2018 11:10:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('367126A77051438EDECE8D15F0ED62F8')
+Jan 20, 2018 11:10:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('19B8B38201A12782EB3F22E2CA935A3B')
+Jan 20, 2018 11:10:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('07F075552CAC74267F9D57F8937A8A6C')
+Jan 20, 2018 11:10:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4B9ED604E84B80A02503A5B0F90C4040')
+Jan 20, 2018 11:10:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('C349DC08EC7171A7C1A31C4A5A5A0F48')
+Jan 20, 2018 11:10:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('28B31EBEFBB6BB1DD76537DEDCC905F8')
+Jan 20, 2018 11:10:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('2EE074BA37EC44E4C0E7664FE5DC9468')
+Jan 20, 2018 11:10:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F867B081A3DFF839AE4B0B686187D5FF')
+Jan 20, 2018 11:10:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('CD33E1714D953A8EAE1DC74B722EBCC8')
+Jan 20, 2018 11:10:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('C5A89903386EBD18C417B1BB2EA1C420')
+Jan 20, 2018 11:10:48 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('EC8CD431EBE8B53590B73D2E0A30846E')
+Jan 20, 2018 11:10:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('7B15E8EF1184431435AA26E0B49AC848')
+Jan 20, 2018 11:10:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('0BD7225C644574F77A3B6C17AED192C5')
+Jan 20, 2018 11:10:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('A3CF3D0F77EF7DB5632173C1B899AA0F')
+Jan 20, 2018 11:10:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('C420ABCC87C92F22B6089A394C0092F0')
+Jan 20, 2018 11:10:57 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('E9C571E6C8614779A6BD220FE0E9CCA6')
+Jan 20, 2018 11:10:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('2781C4C5342E1788ACD0682463114F9E')
+Jan 20, 2018 11:11:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('584EFB261D2F5A785F20A2A5A3846404')
+Jan 20, 2018 11:11:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('BC8C6FF8ED986C8B81B46D9B7BB0BC6F')
+Jan 20, 2018 11:11:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('0DC92E3024E930D27391B869C127345F')
+Jan 20, 2018 11:11:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('EC103FA9E90AEEC225DC77284E5CA445')
+Jan 20, 2018 11:11:09 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('408AAB3C74996BE58C06CDC45472D5ED')
+Jan 20, 2018 11:11:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('BB89A03CBAFB32F34368B8182599C304')
+Jan 20, 2018 11:11:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4895CED6BBE5AC75861C93E85E1177B9')
+Jan 20, 2018 11:11:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('BB101477CEC2BBE62B82BBFFECFE9E18')
+Jan 20, 2018 11:11:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('CFE78FB5774AB46F1C6220EDF5912F06')
+Jan 20, 2018 11:11:19 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('FFA491C4E4079A937A88538293ABF9FD')
+Jan 20, 2018 11:11:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6C3340A6C29756E2CD6AAE5A8D559A91')
+Jan 20, 2018 11:11:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6F56C6C6C94FB19C27DA4F5FFE1CFE9E')
+Jan 20, 2018 11:11:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('262E69EE64822A3560A8109C17D5086A')
+Jan 20, 2018 11:11:28 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('DD1A11DFE8BDC347BACCB281D7558465')
+Jan 20, 2018 11:11:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('867DC454EAFE2AD84ED6BD20696541D5')
+Jan 20, 2018 11:11:33 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('144D4307068FFF840AB6DB07D15BD441')
+Jan 20, 2018 11:11:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6B63DA58669492C963D42EB80CB48B6C')
+Jan 20, 2018 11:11:38 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('1D5B5B3A295791EBBC3BDC2B16DC9981')
+Jan 20, 2018 11:11:39 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('88C009B531B585ADDBAD8C427E9CE7B3')
+Jan 20, 2018 11:11:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('949E39524EDC5D7EE73B72689D667DF2')
+Jan 20, 2018 11:11:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('77D9C6C4992EF27ED3A7DCF7F27AD096')
+Jan 20, 2018 11:11:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('26F2E34025A2FA71956D250AD3B164BD')
+Jan 20, 2018 11:11:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('279ABA1437794DA551E2E2C779DF27E8')
+Jan 20, 2018 11:11:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('9E9A1ECB6B96CA55847EB6E2E9E34331')
+Jan 20, 2018 11:11:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('491D68F397B063B0496763D5E7E83B64')
+Jan 20, 2018 11:11:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6218A585D7941C2F92E7CB4632A5BEC0')
+Jan 20, 2018 11:12:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('8C4662F594F32E0A9B438D0B0B766834')
+Jan 20, 2018 11:12:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('7B42BB24AEDABB91A9DFB3973D71A900')
+Jan 20, 2018 11:12:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('1AA89CBB95AAE56CB6FC263BB246E627')
+Jan 20, 2018 11:12:08 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('13B5B54A724B0DB4C3040DEE0B12F4C8')
+Jan 20, 2018 11:12:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('BFFF86E3A8A8DDCBE86246DBD3C91A26')
+Jan 20, 2018 11:12:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('8AC559904C6AC8E7F809A3A770B0CA84')
+Jan 20, 2018 11:12:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('EB3353D5AF18DD01365A92FA45C563E3')
+Jan 20, 2018 11:12:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('7814E30950C542D8EA67FBE3FF48F35C')
+Jan 20, 2018 11:12:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('9354E67E0E231BC7D15F38C091644941')
+Jan 20, 2018 11:12:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('1099D1931F3B96BF22A2FDF976438C58')
+Jan 20, 2018 11:12:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('094D2D0BD04C7BF5B9341308781D0C4E')
+Jan 20, 2018 11:12:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('FE5943D2B1732F125E36EE66CBFD1FA4')
+Jan 20, 2018 11:12:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('2F7F365787CA44809897E2433A2FA162')
+Jan 20, 2018 11:12:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('3A7FCCB52CA4B4CA37B14F0602FD6BE1')
+Jan 20, 2018 11:12:27 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('B8B9108AE5A273DB08C497E4D170A161')
+Jan 20, 2018 11:12:28 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('7962708BCC454ECB8408C54711E01856')
+Jan 20, 2018 11:12:30 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('04B3D5EECE29F10675E940AC97B1E938')
+Jan 20, 2018 11:12:32 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('A64A54EB268FA0145A0FA33A220088AA')
+Jan 20, 2018 11:12:34 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('DACC7BF8BCBB501B13815C95F74FE9DB')
+Jan 20, 2018 11:12:35 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('8E8A3390C7170A6E0215F32F3DCA4109')
+Jan 20, 2018 11:12:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('2DB92D8D3EED9E233A6C63C6F8361416')
+Jan 20, 2018 11:12:40 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('988D92D2EE3EE7C02FBDFDDF91113D88')
+Jan 20, 2018 11:12:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6AAE3BBEE7410B717AA72EC1A2AF0D81')
+Jan 20, 2018 11:12:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('D4776BB6F82FDBDF256401989EA0D1EF')
+Jan 20, 2018 11:12:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('0C17194012890C3A7D149CB79B362A88')
+Jan 20, 2018 11:12:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('B25266972FAAAB4FE2E713D165C64DBE')
+Jan 20, 2018 11:12:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('1A725B77C53AE08B619C6086A4CC4F1E')
+Jan 20, 2018 11:12:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('AF1FA17C5351E4E2FA590E26F1ED0BB2')
+Jan 20, 2018 11:12:49 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6049B752E8DA84280A9E2FBEC11EA864')
+Jan 20, 2018 11:12:51 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('CF4CE4231F5909379931994F8FF884D5')
+Jan 20, 2018 11:12:52 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4F0B5E6FF19694C77A46A0EAA43B2131')
+Jan 20, 2018 11:12:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6F5AE1188D6EC0BAC4A2DBC8F5DBB6D2')
+Jan 20, 2018 11:12:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('16295EF424E3D9C293D8C9568C5BFE2A')
+Jan 20, 2018 11:12:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('49092643F1C59DABD8750CC17FF55A5B')
+Jan 20, 2018 11:13:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('2EB8C161716F11A9AE633F95547B148C')
+Jan 20, 2018 11:13:02 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('EAC243A6E1E2243704CD189F3E1EDFA7')
+Jan 20, 2018 11:13:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('8B403CF8B2D16C43075F1B07C1D8D77E')
+Jan 20, 2018 11:13:06 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('E4CF3A3F26B2196C85BA52933F6DDDF4')
+Jan 20, 2018 11:13:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('937F61A2F6B40D73C865B7F0EA79E472')
+Jan 20, 2018 11:13:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('DDF2904217F0669DFE58B58D8BDB9FDA')
+Jan 20, 2018 11:13:12 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6D5D8E24F5F28FF5A9EB29A10E52C711')
+Jan 20, 2018 11:13:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('0D743B871100E1E3F856AE48EC9647DC')
+Jan 20, 2018 11:13:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('4A4AE03002ADA17A3BEF2197E2DBB1C2')
+Jan 20, 2018 11:13:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('9AA9933647C2A16287A3A59402593DF4')
+Jan 20, 2018 11:13:17 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('B00CC28B0E82ED996C05AAD58CE8B5CD')
+Jan 20, 2018 11:13:20 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('53B32BAA367EA3DF4AE8426625387683')
+Jan 20, 2018 11:13:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('1219A543CCA510826F69BDF9635769F7')
+Jan 20, 2018 11:13:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('1219A543CCA510826F69BDF9635769F7', 'table', 'cal.TableBean@6dd69436')
+Jan 20, 2018 11:13:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('B56632079B2A5F74FEFE9B8DE3EA2DF7')
+Jan 20, 2018 11:13:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('B56632079B2A5F74FEFE9B8DE3EA2DF7', 'table', 'cal.TableBean@ce85339')
+Jan 20, 2018 11:13:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('BB08F04C5F51E536153BF9B84CDFC85A')
+Jan 20, 2018 11:13:26 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('413B4F64519642E0FBB06B51B0A8E0B7')
+Jan 20, 2018 11:13:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('0DAA271E969B7C928449925B1F95B192')
+Jan 20, 2018 11:13:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('1982503FB339130769380AA139E3F4D2')
+Jan 20, 2018 11:13:31 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('49B68494E8C671094B56328C46A179B9')
+Jan 20, 2018 11:13:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('CC620EB08DECDA9ECDC27F639454D291')
+Jan 20, 2018 11:13:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('2415F67DC0A4F577716F248F6662E20F')
+Jan 20, 2018 11:13:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('688E6666DBB65AE4552F740A9C331E9C')
+Jan 20, 2018 11:13:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('8CA151E4C3584059FF6971E7365469C1')
+Jan 20, 2018 11:13:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('96E0F4BEA3E93B0512D0E7ECA046C3F2')
+Jan 20, 2018 11:13:42 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('DD8F5AFDC0F585C53AE1489C26355FA1')
+Jan 20, 2018 11:13:43 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('081D6D30A21B20A162F0F88847416912')
+Jan 20, 2018 11:13:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('A440E6B5BC0CF7589EDBBEF0D35094C8')
+Jan 20, 2018 11:13:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('5116C8A497CFA561AD4212DC78E160FF')
+Jan 20, 2018 11:13:47 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('F43E9138E71F90D671591583A60671A7')
+Jan 20, 2018 11:13:50 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('3BEFD4440E604351942DBA7002234503')
+Jan 20, 2018 11:13:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('33ED9381AFB76DC8ACE0AC4DDA2453C6')
+Jan 20, 2018 11:13:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeAdded('33ED9381AFB76DC8ACE0AC4DDA2453C6', 'table', 'cal.TableBean@4ac963b0')
+Jan 20, 2018 11:13:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('7886AEEB258AE7FDAFBE631D4A3FFB33')
+Jan 20, 2018 11:13:55 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('40D719E8229B3AE77BBFD4CC4334F247')
+Jan 20, 2018 11:13:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('74E68AC3E727A6EE3AFDE285C0885653')
+Jan 20, 2018 11:13:59 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('5D9629409DA2908536972A9BC7F27659')
+Jan 20, 2018 11:14:03 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('9CB83F616994F073CAF60416B03B3C44')
+Jan 20, 2018 11:14:05 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('E554F2224213934CDFACB3F807830A0A')
+Jan 20, 2018 11:14:07 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('C18B880089416C88FF0C97B5A0B8542A')
+Jan 20, 2018 11:14:10 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('6F3C2C65F1D45801EAD882B5155D1F89')
+Jan 20, 2018 11:14:13 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('EF66D8C588DE56213CD35FFAE86FDBFA')
+Jan 20, 2018 11:14:15 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: sessionCreated('04E3428FBDA736C422199A30879B4C5C')
+Jan 20, 2018 11:14:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('455820B5444180A04F7722646B6867B1', 'cart', 'sessions.DummyCart@68c3644c')
+Jan 20, 2018 11:14:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('1219A543CCA510826F69BDF9635769F7', 'table', 'cal.TableBean@6dd69436')
+Jan 20, 2018 11:14:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('745C679B805A00C5C3F64F5A960343E8', 'cart', 'sessions.DummyCart@6245c471')
+Jan 20, 2018 11:14:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('745C679B805A00C5C3F64F5A960343E8', 'table', 'cal.TableBean@2ea3c6fc')
+Jan 20, 2018 11:14:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('745C679B805A00C5C3F64F5A960343E8', 'cb', 'colors.ColorGameBean@1510cae3')
+Jan 20, 2018 11:14:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('82FAA1AF7B6BF6485EB040EC130726F1', 'cart', 'sessions.DummyCart@2c5b3eaf')
+Jan 20, 2018 11:14:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('82FAA1AF7B6BF6485EB040EC130726F1', 'table', 'cal.TableBean@6c61761b')
+Jan 20, 2018 11:14:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('82FAA1AF7B6BF6485EB040EC130726F1', 'cb', 'colors.ColorGameBean@15abaaa9')
+Jan 20, 2018 11:14:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('B56632079B2A5F74FEFE9B8DE3EA2DF7', 'table', 'cal.TableBean@ce85339')
+Jan 20, 2018 11:14:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('33ED9381AFB76DC8ACE0AC4DDA2453C6', 'table', 'cal.TableBean@4ac963b0')
+Jan 20, 2018 11:14:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('C72F9A6906222947CC4556AC6180F1BB', 'cart', 'sessions.DummyCart@13cdc7d5')
+Jan 20, 2018 11:14:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('C72F9A6906222947CC4556AC6180F1BB', 'table', 'cal.TableBean@27997bae')
+Jan 20, 2018 11:14:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: attributeRemoved('C72F9A6906222947CC4556AC6180F1BB', 'cb', 'colors.ColorGameBean@7a738286')
+Jan 20, 2018 11:14:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jan 20, 2018 11:14:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
